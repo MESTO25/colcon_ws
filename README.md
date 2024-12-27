@@ -4,11 +4,14 @@ Requirements:
 
 Excute the packages:
   First source the install where the colcon build has stored the files:
-**	Source ROS2** : source /opt/ros/humble/setup.bash
-**	Source Repo** :source install/setup.bash
+Source ROS2:
+source /opt/ros/humble/setup.bash
+Source Repo:
+source install/setup.bash
 
 Run:
   	ros2 launch ur_simulation_gazebo ur_sim_moveit.launch.py 
+   
 	ros2 launch ur_simulation_gazebo ur_sim_control.launch.py
 	
 To visualize the robot install this repository to you workspace and execute the following:
