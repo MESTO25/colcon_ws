@@ -4,7 +4,7 @@ Requirements:
 
 Excute the packages:
 
-First source the install where the colcon build has stored the files:
+First source the install where the colcon build has stored the files:/.
 Source ROS2:
 
 	source /opt/ros/humble/setup.bash
