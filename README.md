@@ -8,7 +8,7 @@ Excute the packages:
 **	Source Repo** :source install/setup.bash
 
 Run:
-  ros2 launch ur_simulation_gazebo ur_sim_moveit.launch.py 
+  	ros2 launch ur_simulation_gazebo ur_sim_moveit.launch.py 
 	ros2 launch ur_simulation_gazebo ur_sim_control.launch.py
 	
 To visualize the robot install this repository to you workspace and execute the following:
