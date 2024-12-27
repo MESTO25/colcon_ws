@@ -1,7 +1,7 @@
 Requirements:
-  Ubuntu 22.04.5 LTS
+Ubuntu 22.04.5 LTS
   
-  ROS 2 Humble
+ROS 2 Humble
 
 Excute the packages:
 
