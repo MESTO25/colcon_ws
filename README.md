@@ -3,14 +3,14 @@ Requirements:
   ROS 2 Humble
 
 Excute the packages:
-  First source the install where the colcon build has stored the files:
+First source the install where the colcon build has stored the files:
 Source ROS2:
 
-source /opt/ros/humble/setup.bash
+	source /opt/ros/humble/setup.bash
 
 Source Repo:
 
-source install/setup.bash
+	source install/setup.bash
 
 Run:
 
